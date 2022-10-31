@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Kolker+Brush&display=swap');
 body {
+    font-family: 'Kolker Brush', cursive;
     text-align: center;
     background-color: rgb(245, 138, 77);
 }
